@@ -13,4 +13,4 @@ I'm here to show the world my passion of coding, do great things with data prowe
 
 [![Gad's github stats](https://github-readme-stats.vercel.app/api?username=agad98)](https://github.com/anuraghazra/github-readme-stats)
 
-Be sure to visit my [Website](www.ahmedgad.net)!
+Be sure to visit my [Website](https://www.ahmedgad.net)!
