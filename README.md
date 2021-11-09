@@ -7,7 +7,7 @@
 
 I'm an avid Smart Contract/Blockchain Software Engineer, [Blockchain](https://www.blockchain.com/) Developer Advocate, and an [Industrial Engineer](https://engineering.tamu.edu/industrial/index.html).
 
-I'm here to show the world my passion of coding, do great things with data prowess, python lover, pizza enthusiast, and life enthusiast.
+I'm here to show the world my passion for coding, and do great things with data prowess. I'm a python lover, brewing hobbyist, pizza aficando, and life enthusiast!
 
 #### Github Stats 📊
 
