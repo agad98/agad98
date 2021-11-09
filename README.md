@@ -8,9 +8,10 @@
 I'm an avid Smart Contract/Blockchain Software Engineer, [Blockchain](https://www.blockchain.com/) Developer Advocate, and an [Industrial Engineer](https://engineering.tamu.edu/industrial/index.html).
 
 I'm here to show the world my passion for coding and to do great things with data prowess. I'm a python lover, brewing hobbyist, pizza aficando, and life enthusiast!
-
+<!--
 #### Github Stats 📊
 
 [![Gad's github stats](https://github-readme-stats.vercel.app/api?username=agad98)](https://github.com/anuraghazra/github-readme-stats)
 
 Be sure to visit my [Website](http://ahmedgad.net)!
+-->
