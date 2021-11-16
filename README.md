@@ -13,6 +13,15 @@
 I'm an avid Smart Contract/Blockchain Software Engineer, [Blockchain](https://www.blockchain.com/) Developer Advocate, and an [Industrial Engineer](https://engineering.tamu.edu/industrial/index.html).
 
 I'm here to show the world my passion for coding and to do great things with data prowess. I'm a python lover, brewing hobbyist, pizza aficando, and life enthusiast!
+
+### My Statistics:
+
+<img align='center' width="500" src="https://github-readme-stats.vercel.app/api?username=agad98&count_private=true&show_icons=true&theme=vue-dark">
+
+<img align='center' width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agad98&layout=compact&theme=vue-dark">
+
+![](https://komarev.com/ghpvc/?username=agad98&color=33FFBB)
+
 <!--
 <h2> Hi there 👋, I'm Gad! </h2>
 #### Github Stats 📊
