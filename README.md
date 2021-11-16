@@ -2,9 +2,8 @@
   <img src="https://github.com/agad98/agad98/blob/main/gifntext-gif.gif">
 </div>
 
-## Hi, I'm Gad! Welcome to my GitHub :octocat:
+## Hi, I'm Gad! Welcome to my GitHub
 
-<h2> Hi there 👋, I'm Gad! </h2>
     
 [![Ahmed Gad Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedgadtamu/)
 [![Ahmed Gad Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/therealGVD)
@@ -15,6 +14,7 @@ I'm an avid Smart Contract/Blockchain Software Engineer, [Blockchain](https://ww
 
 I'm here to show the world my passion for coding and to do great things with data prowess. I'm a python lover, brewing hobbyist, pizza aficando, and life enthusiast!
 <!--
+<h2> Hi there 👋, I'm Gad! </h2>
 #### Github Stats 📊
 
 [![Gad's github stats](https://github-readme-stats.vercel.app/api?username=agad98)](https://github.com/anuraghazra/github-readme-stats)
