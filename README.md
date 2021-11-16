@@ -2,7 +2,7 @@
   <img src="https://github.com/agad98/agad98/blob/main/gifntext-gif.gif">
 </div>
 
-## Hi, I'm Gad! Welcome to my GitHub
+## Hi, I'm Gad! Welcome to my GitHub :man_mechanic:
 
     
 [![Ahmed Gad Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedgadtamu/)
