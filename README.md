@@ -1,3 +1,9 @@
+<div align='center'>
+  <img src="https://github.com/agad98/agad98/blob/main/gifntext-gif.gif">
+</div>
+
+## Hi, I'm Gad! Welcome to my GitHub :octocat:
+
 <h2> Hi there 👋, I'm Gad! </h2>
     
 [![Ahmed Gad Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedgadtamu/)
@@ -14,4 +20,8 @@ I'm here to show the world my passion for coding and to do great things with dat
 [![Gad's github stats](https://github-readme-stats.vercel.app/api?username=agad98)](https://github.com/anuraghazra/github-readme-stats)
 
 Be sure to visit my [Website](http://ahmedgad.net)!
+
+https://github.com/agad98/agad98/blob/main/gifntext-gif.gif
+
+
 -->
