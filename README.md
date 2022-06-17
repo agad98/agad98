@@ -10,7 +10,7 @@
 [![Ahmed Gads StackOverflow](https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/11218314/ahmedgad)
 [![Ahmed Gads Twitch](https://img.shields.io/badge/Twitch-6441A4?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/gvdthelad)
 
-I'm an avid Smart Contract/Blockchain Software Engineer, [Blockchain](https://www.blockchain.com/) Developer Advocate, and an [Industrial Engineer](https://engineering.tamu.edu/industrial/index.html). :man_technologist:
+I'm an avid Software Engineer, Software Tester, and an [Industrial Engineer](https://engineering.tamu.edu/industrial/index.html). :man_technologist:
 
 I'm here to show the world my passion for coding and to do great things with data prowess. I'm a python lover, brewing hobbyist, pizza aficando, and a life enthusiast!
 
