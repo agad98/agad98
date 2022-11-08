@@ -14,6 +14,8 @@ I'm a Full Stack Developer and DevOps Engineer. :man_technologist:
 
 I'm here to show the world my passion for coding and to do great things with data prowess. I'm a python lover, brewing hobbyist, pizza aficando, and a life enthusiast!
 
+I am super passionate about Bitcoin and blockchain technologies.
+
 ### My Statistics:
 
 <img align='center' width="500" src="https://github-readme-stats.vercel.app/api?username=agad98&count_private=true&show_icons=true&theme=vue-dark">
