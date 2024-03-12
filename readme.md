@@ -1,6 +1,8 @@
-# <div align='center'>
-#  <img src="https://github.com/agad98/agad98/blob/main/gifntext-gif.gif">
-# </div>
+<!---
+<div align='center'>
+<img src="https://github.com/agad98/agad98/blob/main/gifntext-gif.gif">
+</div>
+--->
 
 ## Hi, I'm Gad! Welcome to my GitHub :man_mechanic:
 
